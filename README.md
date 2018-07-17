@@ -24,6 +24,7 @@ EOT
 
 ### Aliases
 
+- `cd ~/workstation`
 - `curl -O https://raw.githubusercontent.com/GitAlias/gitalias/master/gitalias.txt`
 - run:
 ```
