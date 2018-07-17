@@ -30,7 +30,7 @@ EOT
 ```
 cat <<EOT >> ~/.gitconfig
 [include]
-    path = gitalias.txt
+    path = ~/workstation/gitalias.txt
 EOT
 ```
 
