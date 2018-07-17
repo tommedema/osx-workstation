@@ -34,4 +34,6 @@ cat <<EOT >> ~/.gitconfig
 EOT
 ```
 
-You can now use aliases like `git put description` to commit all and push.
+You can now use aliases like:
+- `git put description` to commit all and push.
+- `git s` for git status
