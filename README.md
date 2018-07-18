@@ -35,5 +35,5 @@ EOT
 ```
 
 You can now use aliases like:
-- `git put description` to commit all and push.
+- `git put "my commit message"` to commit all and push.
 - `git s` for git status
