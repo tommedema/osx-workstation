@@ -47,3 +47,13 @@ EOT
 You can now use aliases like:
 - `git put "my commit message"` to commit all and push.
 - `git s` for git status
+
+## Apps
+
+### Chrome
+
+- brew cask google-chrome
+
+### IDE
+
+- brew cask visual-studio-code
