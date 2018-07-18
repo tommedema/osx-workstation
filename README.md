@@ -6,8 +6,10 @@ Personal repo to version control my workstation configuration.
 ### Homebrew
 - `/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
 
-### Yarn and Node.js
-- `brew install yarn`
+### Yarn and Node.js (with nvm)
+- `curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.33.11/install.sh | bash`
+- `nvm install lts/carbon`
+- `brew install yarn --without-node`
 
 ## Bash scripts
 
