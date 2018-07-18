@@ -1,6 +1,14 @@
 # osx-workstation
 Personal repo to version control my workstation configuration.
 
+## Dev Tooling
+
+### Homebrew
+- `/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
+
+### Yarn and Node.js
+- `brew install yarn`
+
 ## Bash scripts
 
 ### mkcd: Create and move into directory
