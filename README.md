@@ -50,10 +50,22 @@ You can now use aliases like:
 
 ## Apps
 
-### Chrome
-
-- `brew cask google-chrome`
+### Tools
+- `brew cask install caffeine`
 
 ### IDE
+- `brew cask install visual-studio-code`
 
-- `brew cask visual-studio-code`
+### Terminal
+- `brew cask install hyper`
+
+### Browser
+- `brew cask install google-chrome`
+
+### Design
+- `brew cask install sketch`
+
+### Media
+- `brew cask install spotify`
+- `brew cask install vlc`
+- `brew cask install webtorrent`
