@@ -52,8 +52,8 @@ You can now use aliases like:
 
 ### Chrome
 
-- brew cask google-chrome
+- `brew cask google-chrome`
 
 ### IDE
 
-- brew cask visual-studio-code
+- `brew cask visual-studio-code`
