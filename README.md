@@ -44,8 +44,15 @@ cat <<EOT >> ~/.gitconfig
 EOT
 ```
 
+Modify gitalias.txt to include:
+
+```
+puta = !git add -A  && git put
+```
+
 You can now use aliases like:
 - `git put "my commit message"` to commit all and push
+- `git puta "this adds all files incl untracked ones and commit"`
 - `git s` for git status
 
 ## Apps
