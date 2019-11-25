@@ -30,21 +30,17 @@ Personal repo to version control my workstation configuration.
 - `nvm install lts/dubnium`
 - `curl -o- -L https://yarnpkg.com/install.sh | bash`
 
-## Init
-
-- `mkcd ~/workstation`
-
 ## Git
 
 ### Aliases
 
-- `cd ~/workstation`
+- `cd ~/tooling`
 - `curl -O https://raw.githubusercontent.com/GitAlias/gitalias/master/gitalias.txt`
 - run:
 ```
 cat <<EOT >> ~/.gitconfig
 [include]
-    path = ~/workstation/gitalias.txt
+    path = ~/tooling/gitalias.txt
 EOT
 ```
 
@@ -63,9 +59,6 @@ You can now use aliases like:
 
 ### Browser
 - `brew cask install google-chrome`
-
-### Tools
-- `brew cask install caffeine`
 
 ### IDE
 - `brew cask install visual-studio-code`
