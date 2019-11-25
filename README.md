@@ -7,14 +7,12 @@ Personal repo to version control my workstation configuration.
 - enable tap to click
 - enable 3 finger drag
 - increase trackpad speed
+- enable firewall
 
 ## ToDo
-- create more screen space in screen settings
-- always show hidden files in finder
 - default directories: `projects`, `dumps`, `screenshots`
 - change default screenshot directory
 - update all libraries
-- enable firewall
 - enable auto lock with password
 - install whatsapp
 - install google keep
