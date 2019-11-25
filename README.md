@@ -4,10 +4,10 @@ Personal repo to version control my workstation configuration.
 ## Manual
 - auto hide dock
 - default web browser to chrome
-
-## ToDo
 - enable tap to click
 - enable 3 finger drag
+
+## ToDo
 - create more screen space in screen settings
 - always show hidden files in finder
 - default directories: `projects`, `dumps`, `screenshots`
