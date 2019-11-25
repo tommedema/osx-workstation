@@ -1,21 +1,21 @@
 # osx-workstation
 Personal repo to version control my workstation configuration.
 
+## Manual
+- auto hide dock
+- default web browser to chrome
+
 ## ToDo
 - enable tap to click
 - enable 3 finger drag
-- auto hide dock
 - create more screen space in screen settings
-- default web browser to chrome
 - always show hidden files in finder
 - default directories: `projects`, `dumps`, `screenshots`
 - change default screenshot directory
 - update all libraries
 - enable firewall
-- enable encryption (firevault)
 - enable auto lock with password
 - install whatsapp
-- install hyper
 - install google keep
 
 ## Dev Tooling
