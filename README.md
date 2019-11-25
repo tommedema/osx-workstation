@@ -6,6 +6,7 @@ Personal repo to version control my workstation configuration.
 - default web browser to chrome
 - enable tap to click
 - enable 3 finger drag
+- increase trackpad speed
 
 ## ToDo
 - create more screen space in screen settings
