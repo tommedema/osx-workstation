@@ -24,24 +24,11 @@ Personal repo to version control my workstation configuration.
 - `/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
 
 ### Yarn and Node.js (with nvm)
-- `curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.33.11/install.sh | bash`
-- `nvm install lts/carbon`
-- `brew install yarn --without-node`
-
-## Bash scripts
-
-### mkcd: Create and move into directory
-
-```
-cat <<EOT >> ~/.bashrc
-
-mkcd () {
-  mkdir "$1"
-  cd $_
-}
-EOT
-```
-  
+- `touch ~/.zshrc`
+- `curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.35.1/install.sh | bash`
+- `nvm ls-remote`
+- `nvm install lts/dubnium`
+- `curl -o- -L https://yarnpkg.com/install.sh | bash`
 
 ## Init
 
@@ -74,20 +61,14 @@ You can now use aliases like:
 
 ## Apps
 
+### Browser
+- `brew cask install google-chrome`
+
 ### Tools
 - `brew cask install caffeine`
 
 ### IDE
 - `brew cask install visual-studio-code`
-
-### Terminal
-- `brew cask install hyper`
-
-### Browser
-- `brew cask install google-chrome`
-
-### Design
-- `brew cask install sketch`
 
 ### Media
 - `brew cask install spotify`
