@@ -2,6 +2,7 @@
 Personal repo to version control my workstation configuration.
 
 ## Manual
+- system update
 - auto hide dock
 - default web browser to chrome
 - enable tap to click
@@ -12,10 +13,7 @@ Personal repo to version control my workstation configuration.
 ## ToDo
 - default directories: `projects`, `dumps`, `screenshots`
 - change default screenshot directory
-- update all libraries
-- enable auto lock with password
 - install whatsapp
-- install google keep
 
 ## Dev Tooling
 
@@ -30,6 +28,8 @@ Personal repo to version control my workstation configuration.
 - `curl -o- -L https://yarnpkg.com/install.sh | bash`
 
 ## Git
+
+- ... install latest stable version of Git
 
 ### Aliases
 
